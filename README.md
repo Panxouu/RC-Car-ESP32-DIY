@@ -60,7 +60,6 @@ This project was made possible thanks to the support and facilities provided by 
 | Institution / Institución | Contribution / Contribución |
 | :---: | :--- |
 | <img src="./Multimedia/Logos/logo_lemur.png" width="120" alt="LEMUR Logo"> | **LEMUR (Laboratorio de Ingeniería Mecatrónica y Robótica)**<br>For providing the workspace and tools required for the robot assembly and testing.<br>*(Por proveer el espacio y herramientas necesarias para el ensamblado y pruebas del robot).* |
-| <img src="./Multimedia/Logos/logo_fablab.png" width="150" alt="FabLab Logo"> | **FABLAB U. de Chile**<br>For their support in prototyping and manufacturing resources.<br>*(Por su apoyo en prototipado y recursos de fabricación).* |
 
 ---
 *Open Source Project - 2025*
